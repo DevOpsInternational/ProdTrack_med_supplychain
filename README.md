@@ -1,4 +1,6 @@
-# ProdTrack: hlf-medicChain - A blockchain based product provenance solution for increasing supply chain visibility. 
+# ProdTrack : Medical Supply chain 
+
+A blockchain based product provenance solution for increasing supply chain visibility. 
 
 The designed concept of the pharmaceutical supplychain system based on the blockchain technology
 Hyperledger Fabric.
